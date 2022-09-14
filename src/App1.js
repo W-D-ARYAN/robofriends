@@ -38,7 +38,7 @@ class App1 extends Component {
           <Scroll>
          
             <CardList robots={filteredRobots} />
-            
+          
           </Scroll>
         </div>
       );
